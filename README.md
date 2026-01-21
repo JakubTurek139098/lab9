@@ -1,1 +1,2 @@
 pierwsza sekcja
+druga sekcja
